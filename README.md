@@ -12,7 +12,7 @@ This application as checks whether the entered word is a Palindrome or not.
 ## How to run the application(basic steps):
 
 ### Basic steps:
- 1. Clone the repository. Source to repo "github.com/camp3rm/Palindrom-Checker"
+ 1. Clone the repository. Source to repo `github.com/camp3rm/Palindrom-Checker`
 2. Instalation of node_modules( yarn or npm ):
     - install Node.js from official store
     - Download yarn  using npm -> "npm install -g yarn"
