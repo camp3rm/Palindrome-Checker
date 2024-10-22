@@ -21,5 +21,5 @@ This application as checks whether the entered word is a Palindrome or not.
     - Open and write in the terminal: cd path/to/your/projeсt
     - Install dependencies: yarn and npm install
  3. Run the project:
-    - Write in the terminal: yarn start or npm start
+    - Write in the terminal: yarn start or npm run start
 ***
